@@ -1,0 +1,15 @@
+a:hover {
+  cursor: pointer;
+  color: hsl(225, 73%, 27%);
+}
+
+.nav-bar {
+  margin: auto;  
+  text-align: center;
+  color: hsl(225, 73%, 57%);
+}
+
+.nav-bar li{
+  display: inline;
+  margin-inline: 2rem;
+}
